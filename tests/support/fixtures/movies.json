@@ -1,0 +1,83 @@
+{
+    "create": {
+      "title": "Guerra Mundial Z",
+      "overview": "Gerry Lane, um ex-investigador da ONU, é convocado para ajudar a conter uma pandemia global de zumbis que está destruindo exércitos e governos, e ameaçando dizimar a própria humanidade.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "featured": false,
+      "cover": "imagens/guerra_mundial_z.png"
+    },
+    "resident_evil_o_hospede_maldito": {
+      "title": "Resident Evil: O Hóspede Maldito",
+      "overview": "Alice acorda em uma mansão e descobre que está no centro de uma catástrofe biológica causada pela Umbrella Corporation.",
+      "company": "Sony Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "imagens/resident_evil.png"
+    },
+    "exterminio": {
+      "title": "Extermínio",
+      "overview": "Um vírus altamente contagioso se espalha rapidamente, transformando a maioria da população em zumbis sedentos de sangue.",
+      "company": "Fox Searchlight Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "imagens/exterminio.png"
+    },
+    "a_noite_dos_mortos_vivos": {
+      "title": "A Noite dos Mortos-Vivos",
+      "overview": "Um grupo de pessoas se refugia em uma casa para escapar de zumbis canibais que estão vagando pelo campo.",
+      "company": "The Walter Reade Organization",
+      "release_year": 1968,
+      "featured": false,
+      "cover": "imagens/noite_dos_mortos_vivos.png"
+    },
+    "madrugada_dos_mortos": {
+      "title": "Madrugada dos Mortos",
+      "overview": "Um grupo de sobreviventes se esconde em um shopping center enquanto o mundo é invadido por zumbis.",
+      "company": "Universal Pictures",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "imagens/madrugada_dos_mortos.png"
+    },
+    "zumbilandia": {
+      "title": "Zumbilândia",
+      "overview": "Um grupo de pessoas tenta sobreviver em um mundo pós-apocalíptico repleto de zumbis, enquanto desenvolvem regras de sobrevivência.",
+      "company": "Columbia Pictures",
+      "release_year": 2009,
+      "featured": false,
+      "cover": "imagens/zumbilandia.png"
+    },
+    "eu_sou_a_lenda": {
+      "title": "Eu Sou a Lenda",
+      "overview": "Robert Neville, um cientista imune a um vírus que transformou a humanidade em zumbis, busca uma cura enquanto sobrevive em uma Nova York deserta.",
+      "company": "Warner Bros.",
+      "release_year": 2007,
+      "featured": false,
+      "cover": "imagens/eu_sou_a_lenda.png"
+    },
+    "re_animator_a_hora_dos_mortos_vivos": {
+      "title": "Re-Animator: A Hora dos Mortos-Vivos",
+      "overview": "Um estudante de medicina descobre uma fórmula que pode reanimar cadáveres, resultando em uma série de experimentos bizarros e horripilantes.",
+      "company": "Empire Pictures",
+      "release_year": 1985,
+      "featured": false,
+      "cover": "imagens/re_animator.png"
+    },
+    "todo_mundo_quase_morto": {
+      "title": "Todo Mundo Quase Morto",
+      "overview": "Shaun decide reconquistar sua ex-namorada e consertar sua vida em meio a um apocalipse zumbi.",
+      "company": "Rogue Pictures",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "imagens/todo_mundo_quase_morto.png"
+    },
+    "o_exercito_dos_mortos": {
+      "title": "O Exército dos Mortos",
+      "overview": "Após um surto de zumbis em Las Vegas, um grupo de mercenários decide realizar o maior assalto já tentado dentro da zona de quarentena.",
+      "company": "Netflix",
+      "release_year": 2021,
+      "featured": false,
+      "cover": "imagens/exercito_dos_mortos.png"
+    }
+  }
+  
