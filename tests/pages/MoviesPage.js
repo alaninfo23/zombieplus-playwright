@@ -11,8 +11,17 @@ export class MoviesPage {
         await expect(this.page).toHaveURL(/.*admin/)
     }
 
-    async create(title, overview, company, release_year) {
+    async goForm() {
         await this.page.locator('a[href$="register"]').click()
+    }
+
+    async submit() {
+        await this.page.getByRole('button', { name: 'Cadastrar' }).click()
+
+    }
+
+    async create(title, overview, company, release_year) {
+        await this.goForm()
         await this.page.getByLabel('Titulo do filme').fill(title)
         await this.page.getByLabel('Sinopse').fill(overview)
         await this.page.locator('#select_company_id .react-select__indicator')
@@ -29,6 +38,10 @@ export class MoviesPage {
             .filter({ hasText: release_year })
             .click()
 
-        await this.page.getByRole('button', { name: 'Cadastrar' }).click()
+        await this.submit()
+    }
+
+    async alertHaveText(target) {
+        await expect(this.page.locator('.alert')).toHaveText(target)
     }
 }
